@@ -1,0 +1,10 @@
+path: ./datasets/mountaincar_tuned
+train: images/train
+val: images/train
+
+kpt_shape: [2, 3]
+
+flip_idx: [1, 0]
+
+names:
+  0: car
